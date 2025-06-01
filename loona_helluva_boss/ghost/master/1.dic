@@ -2594,7 +2594,7 @@ OnUpdate.OnDownloadBegin
 OnUpdateComplete {
 	if reference0 == "none" {"\0\s[0]Nothihng new. You're up-to-date.\w9\w9\w9\w9%(○サーフェス)\e"}
 	else {
-	"\0\s[0]Some new shit for you.\w9\w9\w9\w9%(○サーフェス)\e"
+	"\0\s[0]Some new shit for you.\nThank me later.\w9\w9\w9\w9%(○サーフェス)\e"
 	}
 }
 
