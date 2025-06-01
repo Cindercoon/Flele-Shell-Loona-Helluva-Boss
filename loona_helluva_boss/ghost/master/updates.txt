@@ -1,19 +1,19 @@
 charset,OSNative
-file,delete.txt916fc35020020375995a88c18b3192e8size=573date=2007-09-15T22:00:00
-file,install.txteccd380dd2e4465f098db96f9912dea6size=83date=2025-06-01T01:12:03
-file,readme.txte18714ed2f8a4f66d71f60279b726c61size=3668date=2025-06-01T01:12:04
-file,thanks.txt29314cbb86f5dbb38607c50d86202455size=397date=2025-06-01T01:12:05
+file,delete.txt916fc35020020375995a88c18b3192e8size=573date=2025-06-01T01:21:31
+file,install.txteccd380dd2e4465f098db96f9912dea6size=83date=2025-06-01T01:21:32
+file,readme.txte18714ed2f8a4f66d71f60279b726c61size=3668date=2025-06-01T01:21:33
+file,thanks.txt29314cbb86f5dbb38607c50d86202455size=397date=2025-06-01T01:21:34
 file,thumbnail.pnr.png778575f17efb7bc35c6da1c9268548e6size=16838date=2025-05-30T03:37:33
 file,ghost/master/0.dic81eaab0d68668379e7ee12ba6daeb4e6size=38013date=2008-02-06T06:11:38
-file,ghost/master/1.dicabcc9c2af0eb75eb88ee5a0d598ab00csize=68417date=2025-06-01T01:12:30
+file,ghost/master/1.dic8a4505efc06c59282b5b03757c2f9c3csize=68434date=2025-06-01T01:23:59
 file,ghost/master/aya5.dll7737614f08f642a0261a4f81917ed77asize=198144date=2007-09-15T22:00:00
 file,ghost/master/aya5.txtc1e734513f7e42027448afe06ff578desize=36date=2007-09-16T22:00:00
 file,ghost/master/descript.txte7fae4a2a0a0df27f00b93738a39ec9esize=375date=2025-05-30T01:25:07
 file,ghost/master/sec.aycff99665dba1f1fd7eba1c27c6e0f16f0size=1388date=2007-09-15T22:00:00
-file,ghost/master/1.dic Files/1 (Less Chatter).dicc4ebd5eb341cfe9861aabbc0f4efc584size=68430date=2025-05-31T23:15:18
-file,ghost/master/1.dic Files/1 (More Chatter).dic3fdea6088e382016ef9f918b7ab6462dsize=68432date=2025-05-31T23:14:49
-file,ghost/master/1.dic Files/1 (Zarla English Patch Original).dicb40cd351e2c05f1f4522a9f1b5357315size=83509date=2023-07-12T01:03:01
-file,ghost/master/1.dic Files/Read Me.txt1fed803021f177fe434c48f2ca17e086size=473date=2025-05-31T20:56:55
+file,ghost/master/1.dic Files/1 (Less Chatter).dic0a7a341e2c7a62da74221c5374ce9541size=68432date=2025-06-01T01:24:59
+file,ghost/master/1.dic Files/1 (More Chatter).dic8a4505efc06c59282b5b03757c2f9c3csize=68434date=2025-06-01T01:24:44
+file,ghost/master/1.dic Files/1 (Zarla English Patch Original).dicb40cd351e2c05f1f4522a9f1b5357315size=83509date=2025-06-01T01:21:37
+file,ghost/master/1.dic Files/Read Me.txt1fed803021f177fe434c48f2ca17e086size=473date=2025-06-01T01:21:38
 file,ghost/master/dat/tmp.m3ucdc9c23fe34d8930ee320dbfca345de2size=2231date=2023-07-13T16:39:11
 file,ghost/master/img/blbg_help_zukai.png5767bd0dd44f54be94b32b80ae6b17c5size=4922date=2007-09-15T22:00:00
 file,ghost/master/img/blbg_help_zukai2.png542b13db823e162eda60bc88d2342ec2size=2325date=2007-09-15T22:00:00
@@ -52,7 +52,7 @@ file,shell/master/descript.txtd352636cf5a4cbc8d95a14037c9a1e48size=853date=20
 file,shell/master/install.txtefadfcdd41f7e010589ff587c6a54d39size=58date=2025-05-29T17:14:37
 file,shell/master/menu_background.png79e1eec8474db01bc0b3999b5d1f1d42size=251date=2007-09-15T23:00:00
 file,shell/master/menu_foreground.pngd041ddc2ff7ba457095680c85198ca45size=2398date=2007-09-15T23:00:00
-file,shell/master/menu_sidebar.pnga1bc7a2d288f46c671e4e7a5bfb0dd05size=18528date=2025-05-30T01:59:03
+file,shell/master/menu_sidebar.pnga1bc7a2d288f46c671e4e7a5bfb0dd05size=18528date=2025-06-01T01:22:00
 file,shell/master/readme.txt805600be96fe22e57e317f53ac2d8207size=744date=2025-05-31T21:26:11
 file,shell/master/surface0000.png6d9d96bd82ae3bea2dea4e0fcc72054esize=67302date=2025-05-31T17:45:04
 file,shell/master/surface0001.png28546fae4099dccdfca48aa24cb137f5size=74761date=2025-05-31T17:44:59

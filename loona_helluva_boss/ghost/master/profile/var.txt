@@ -5,6 +5,6 @@ surfacecount,42
 homeurl,https://raw.githubusercontent.com/Cindercoon/Flele-Shell-Loona-Helluva-Boss/main/loona_helluva_boss/
 update_result,OK(0)
 firstboot,802076494
-update_time,802077468
+update_time,802078196
 commitmemorysize,1230304
-lastboot,802077405
+lastboot,802077982
