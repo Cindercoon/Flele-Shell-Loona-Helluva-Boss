@@ -1,15 +1,19 @@
 charset,OSNative
 file,delete.txt916fc35020020375995a88c18b3192e8size=573date=2007-09-15T22:00:00
-file,install.txteccd380dd2e4465f098db96f9912dea6size=83date=2025-05-30T01:22:50
-file,readme.txte18714ed2f8a4f66d71f60279b726c61size=3668date=2023-12-25T23:31:43
-file,thanks.txt29314cbb86f5dbb38607c50d86202455size=397date=2007-09-15T22:00:00
+file,install.txteccd380dd2e4465f098db96f9912dea6size=83date=2025-06-01T01:12:03
+file,readme.txte18714ed2f8a4f66d71f60279b726c61size=3668date=2025-06-01T01:12:04
+file,thanks.txt29314cbb86f5dbb38607c50d86202455size=397date=2025-06-01T01:12:05
 file,thumbnail.pnr.png778575f17efb7bc35c6da1c9268548e6size=16838date=2025-05-30T03:37:33
 file,ghost/master/0.dic81eaab0d68668379e7ee12ba6daeb4e6size=38013date=2008-02-06T06:11:38
-file,ghost/master/1.dic3fdea6088e382016ef9f918b7ab6462dsize=68432date=2025-05-31T23:14:49
+file,ghost/master/1.dicabcc9c2af0eb75eb88ee5a0d598ab00csize=68417date=2025-06-01T01:12:30
 file,ghost/master/aya5.dll7737614f08f642a0261a4f81917ed77asize=198144date=2007-09-15T22:00:00
 file,ghost/master/aya5.txtc1e734513f7e42027448afe06ff578desize=36date=2007-09-16T22:00:00
 file,ghost/master/descript.txte7fae4a2a0a0df27f00b93738a39ec9esize=375date=2025-05-30T01:25:07
 file,ghost/master/sec.aycff99665dba1f1fd7eba1c27c6e0f16f0size=1388date=2007-09-15T22:00:00
+file,ghost/master/1.dic Files/1 (Less Chatter).dicc4ebd5eb341cfe9861aabbc0f4efc584size=68430date=2025-05-31T23:15:18
+file,ghost/master/1.dic Files/1 (More Chatter).dic3fdea6088e382016ef9f918b7ab6462dsize=68432date=2025-05-31T23:14:49
+file,ghost/master/1.dic Files/1 (Zarla English Patch Original).dicb40cd351e2c05f1f4522a9f1b5357315size=83509date=2023-07-12T01:03:01
+file,ghost/master/1.dic Files/Read Me.txt1fed803021f177fe434c48f2ca17e086size=473date=2025-05-31T20:56:55
 file,ghost/master/dat/tmp.m3ucdc9c23fe34d8930ee320dbfca345de2size=2231date=2023-07-13T16:39:11
 file,ghost/master/img/blbg_help_zukai.png5767bd0dd44f54be94b32b80ae6b17c5size=4922date=2007-09-15T22:00:00
 file,ghost/master/img/blbg_help_zukai2.png542b13db823e162eda60bc88d2342ec2size=2325date=2007-09-15T22:00:00

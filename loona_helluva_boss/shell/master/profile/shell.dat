@@ -6,9 +6,9 @@ Char1.balloon.isleft,1
 balloon0.offset,152.-53
 Char0.centery,1040
 balloon1.offset,0.0
-Char0.balloon.isleft,1
+Char0.balloon.isleft,0
 Char.VirtualDesktop,e074d94f-a772-4341-a9dd-aef3fb5d370e
-Char0.center,1155
+Char0.center,1159
 Char1.centery,1040
 Char1.center,1669
 char1.bind.savearray,900=1
