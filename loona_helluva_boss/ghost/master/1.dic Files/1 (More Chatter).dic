@@ -217,8 +217,6 @@ OnMinuteChange
 			"\0\s[35]Whew. That was intense. I'm gonna see if my friends can still come tonight. I need some drinks after what happened today.\w9\w9\w9%(○サーフェス)\e"
 			"\0\s[45]Okay, okay! So did you see fucking Vikki's post the other day? Fucking Vikki?\w9\w9\w9%(○サーフェス)\e"
 			"\0\s[35]Okay! Time for the board games! WITH DRINKS!\w9\w9\w9\w9%(○サーフェス)\e"
-			"\0\s[35]I can also download files if you drag and drop the URL on me.\w9\w9\w9\w9%(○サーフェス)\e"
-			"\0\s[35]Did you know you can drag and drop a URL on me and I'll add it to the rss folder under headlines, where I can check it for updates for you.\w9\w9\w9\w9%(○サーフェス)\e"
 			
 		}
 	}
